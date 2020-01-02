@@ -65,27 +65,27 @@ slot, at the cost of 2 matches per spell level (1 match for a cantrip)
 
 ### Example spells
 
-Level   | Name                                                                           
---------|-----------------------------------------------------------------------------
-Cantrip | [Fire Bolt](https://dndbeyond.com/spells/fire-bolt)
-Cantrip | [Produce Flame](https://dndbeyond.com/spells/produce-flame)
-Cantrip | [Sacred Flame](https://dndbeyond.com/spells/sacred-flame)
-1st     | [Burning Hands](https://dndbeyond.com/spells/burning-hands)
-1st     | [Faerie Fire](https://dndbeyond.com/spells/faerie-fire)
-2nd     | [Continual Flame](https://dndbeyond.com/spells/continual-flame)
-2nd     | [Darkness](https://dndbeyond.com/spells/darkness)
-2nd     | [Darkvision](https://dndbeyond.com/spells/darkvision)
-2nd     | [Flame Blade](https://dndbeyond.com/spells/flame-blade)
-2nd     | [Flaming Sphere](https://dndbeyond.com/spells/flaming-sphere)
-2nd     | [Heat Metal](https://dndbeyond.com/spells/heat-metal)
-2nd     | [Scorching Ray](https://dndbeyond.com/spells/scorching-ray)
-3rd     | [Fireball](https://dndbeyond.com/spells/fireball)
-4th     | [Fire Shield](https://dndbeyond.com/spells/fire-shield)
-4th     | [Wall of Fire](https://dndbeyond.com/spells/wall-of-fire)
-5th     | [Flame Strike](https://dndbeyond.com/spells/flame-strike)
-7th     | [Delayed Blast Fireball](https://dndbeyond.com/spells/delayed-blast-fireball) 
-7th     | [Fire Storm](https://dndbeyond.com/spells/fire-storm)
-8th     | [Incendiary Cloud](https://dndbeyond.com/spells/incendiary-cloud)
+Level   | Matches | Name                                                                           
+--------|---------|-----------------------------------------------------------------------------
+Cantrip | 1       | [Fire Bolt](https://dndbeyond.com/spells/fire-bolt)
+Cantrip | 1       | [Produce Flame](https://dndbeyond.com/spells/produce-flame)
+Cantrip | 1       | [Sacred Flame](https://dndbeyond.com/spells/sacred-flame)
+1st     | 2       | [Burning Hands](https://dndbeyond.com/spells/burning-hands)
+1st     | 2       | [Faerie Fire](https://dndbeyond.com/spells/faerie-fire)
+2nd     | 4       | [Continual Flame](https://dndbeyond.com/spells/continual-flame)
+2nd     | 4       | [Darkness](https://dndbeyond.com/spells/darkness)
+2nd     | 4       | [Darkvision](https://dndbeyond.com/spells/darkvision)
+2nd     | 4       | [Flame Blade](https://dndbeyond.com/spells/flame-blade)
+2nd     | 4       | [Flaming Sphere](https://dndbeyond.com/spells/flaming-sphere)
+2nd     | 4       | [Heat Metal](https://dndbeyond.com/spells/heat-metal)
+2nd     | 4       | [Scorching Ray](https://dndbeyond.com/spells/scorching-ray)
+3rd     | 6       | [Fireball](https://dndbeyond.com/spells/fireball)
+4th     | 8       | [Fire Shield](https://dndbeyond.com/spells/fire-shield)
+4th     | 8       | [Wall of Fire](https://dndbeyond.com/spells/wall-of-fire)
+5th     | 10      | [Flame Strike](https://dndbeyond.com/spells/flame-strike)
+7th     | 14      | [Delayed Blast Fireball](https://dndbeyond.com/spells/delayed-blast-fireball) 
+7th     | 14      | [Fire Storm](https://dndbeyond.com/spells/fire-storm)
+8th     | 16      | [Incendiary Cloud](https://dndbeyond.com/spells/incendiary-cloud)
 
 Fine Matches
 ------------
