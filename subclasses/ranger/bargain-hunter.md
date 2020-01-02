@@ -10,8 +10,9 @@ all.
 Bargain Hunter Magic
 --------------------
 
-You learn the [spell]Prestidigitation[/spell] cantrip if you don't already
-know it. 
+You learn the
+[Prestidigitation](https://www.dndbeyond.com/spells/prestidigitation) cantrip
+if you don't already know it. 
 
 You also learn an additional spell when you reach certain levels in this
 class, as shown in the Bargain Hunter Spells table. These spells count as
@@ -23,11 +24,11 @@ Bargain Hunter Spells
 
 Ranger Level | Spell
 -------------|--------
-3rd 	     | identify
-5th 	     | locate object 
-9th 	     | tongues
-13th 	     | secret chest
-17th 	     | legend lore 
+3rd 	     | [identify](https://www.dndbeyond.com/spells/identify)
+5th 	     | [locate object](https://www.dndbeyond.com/spells/locate-object)
+9th 	     | [tongues](https://www.dndbeyond.com/spells/tongues)
+13th 	     | [secret chest](https://www.dndbeyond.com/spells/secret-chest)
+17th 	     | [legend lore](https://www.dndbeyond.com/spells/legend-lore)
 
 Mint Condition
 --------------
@@ -44,5 +45,16 @@ good price. You gain proficiency in persuasion if you don't already have it.
 Your proficiency bonus is doubled for persuasion checks you make when
 negotiating for goods and services.
 
+Level 11
+--------
+???
 
+Custom Made
+-----------
 
+On reaching level 15 you have built up a network of contacts and influence in
+the merchant and craft communities. Though a complex series of trade ups and
+favours, a master armour smith has agreed to make you a custom item. Choose
+either an item of armour that you are proficient with or a shield, in addition
+to armour's normal effects, you gain a +3 bonus to your AC while wearing the
+armour.
