@@ -45,9 +45,10 @@ good price. You gain proficiency in persuasion if you don't already have it.
 Your proficiency bonus is doubled for persuasion checks you make when
 negotiating for goods and services.
 
-Level 11
---------
-???
+Robbed!
+-------
+
+By level 11 you have seen so many examples of poor workmanship that you can recognise deficient weapons and armour in mere moments.  As an action on your turn, make a perception check (DC 13), on success until the start of your next turn, you call out an enemies weak spots and all attacks against the target are made with advantage. You must be able to see the target, and they must be wearing armour and/or carrying a weapon.
 
 Custom Made
 -----------
