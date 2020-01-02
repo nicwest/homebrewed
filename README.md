@@ -6,5 +6,5 @@ Subclasses
 
 ### Ranger
 
-* [Bargain Hunter](./subclasses/ranger/bargain-hunter.md) - Every merchants
-  best friend and worst nightmare.
+* [Bargain Hunter](./subclasses/ranger/bargain-hunter.md) - Buys things that
+  makes it better in combat.
