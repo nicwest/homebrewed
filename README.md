@@ -1,5 +1,10 @@
-Homebrewed stuff for D&D
-========================
+Homebrewed D&D stuff
+====================
 
-* [Subclasses](./subclasses)
-    - [Ranger](./subclasses/ranger)
+Subclasses
+----------
+
+### Ranger
+
+* [Bargain Hunter](./subclasses/ranger/bargain-hunter.md) - Every merchants
+  best friend and worst nightmare.
