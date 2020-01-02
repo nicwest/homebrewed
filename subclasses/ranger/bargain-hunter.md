@@ -53,7 +53,7 @@ Custom Made
 -----------
 
 On reaching level 15 you have built up a network of contacts and influence in
-the merchant and craft communities. Though a complex series of trade ups and
+the merchant and craft communities. Through a complex series of trade ups and
 favours, a master armour smith has agreed to make you a custom item. Choose
 either an item of armour that you are proficient with or a shield, in addition
 to armour's normal effects, you gain a +3 bonus to your AC while wearing the
