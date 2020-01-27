@@ -16,13 +16,14 @@ takes the most direct route to your bandolier and moves of its own volition
 
 > Kaylee peaked around the edge of the temple door at the goblin raiding party
 > blocking their exit. A hail of arrows followed her retreating head.
+
 > "7 on the left, 5 on the right" she muttered to the quavering priest next to
 > her.
 
 > From a leather belt slung across her chest Kaylee filled her hands with a
 > number of angry looking darts, took a deep breath, and dashed from one side
 > of the door to the other. As she did so, in a flurry of movement so fast the
-> eye could barely follow them, she doing the darts into the room.
+> eye could barely follow them, she flung the darts into the room.
 
 > The priest heard multiple noises in quick succession: an unearthly buzzing,
 > followed by shrill screams, and the sound of several small bodies hitting

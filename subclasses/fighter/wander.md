@@ -2,7 +2,7 @@ Wander
 ======
 
 Usually trained with regular melee weapons, a chance encounter with an
-ancient wand unearths the long last art of wizard duelling. This
+ancient wand unearths the long lost art of wizard duelling. This
 archetype makes use of borrowed magic to become a close range arcane brawler. 
 
 
