@@ -18,3 +18,14 @@ Subclasses
 
 * [School of Matches](./subclasses/wizard/school-of-matches.md) - Fire, lots
   and lots of fire.
+
+Items
+-----
+
+### Other
+
+* [Finger cannons](./items/other/finger-cannons.md) - knuckle dusters with a little more umph.
+
+### Weapons
+
+* [Seekers](./items/weapons/seekers.md) - throwing darts with dark spirits trapped inside
