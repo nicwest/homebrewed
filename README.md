@@ -6,7 +6,7 @@ Subclasses
 
 ### Fighter
 
-* [Wander](./subclass/fighter/wander.md) - a master of close range magic wand
+* [Wander](./subclasses/fighter/wander.md) - a master of close range magic wand
   brawling.
 
 ### Ranger
@@ -24,8 +24,10 @@ Items
 
 ### Other
 
-* [Finger cannons](./items/other/finger-cannons.md) - knuckle dusters with a little more umph.
+* [Finger cannons](./items/other/finger-cannons.md) - knuckle dusters with a
+  little more umph.
 
 ### Weapons
 
-* [Seekers](./items/weapons/seekers.md) - throwing darts with dark spirits trapped inside
+* [Seekers](./items/weapons/seekers.md) - throwing darts with dark spirits
+  trapped inside
