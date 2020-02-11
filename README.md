@@ -31,3 +31,5 @@ Items
 
 * [Seekers](./items/weapons/seekers.md) - throwing darts with dark spirits
   trapped inside
+* [Stitching Needle](./items/weapons/stitching-needle.md) - a dagger that 
+  sews targets together.
