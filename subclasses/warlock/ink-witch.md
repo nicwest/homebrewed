@@ -97,7 +97,7 @@ success in addition to the spells normal effects, all hostile creatures within
 
 The skeleton of a one armed giant. Doorkeeper stands 9ft tall and has large
 fangs protruding from his lower jaw. The tatters of a garment cling to his
-torso and in his hand  he carries a worn club the size of man.
+torso and in his hand he carries a worn club the size of man.
 
 Skills: Athletics +6
 
@@ -107,7 +107,7 @@ Slam: melee weapon attack, 5ft reach, hit: 2d8 bludgeoning damage.
 
 ### Octheledon the Skitterer
 **Size:** small
-**Skin required:** 2ft
+**Skin required:** 1ft
 **Speed:** 60ft (walking) 60ft (climbing)
 
 With a hundred clawed legs octheledon glides along the floor and  swiftly up a
@@ -122,7 +122,17 @@ Actions:
 Bite: melee weapon attack, 10ft reach, hit 1d4 piercing damage and an
 additional 1d4 poision damage.
 
-### Uck Battle Queen
+### Quiver Queen
 **Size:** small
-**Skin required:** 
+**Skin required:** 2ft
+**Speed:** 25ft
 
+A female goblin clad in luxurious armour. Her chest is pierced with over a
+hundred arrows. Her eyes gleam, and she smiles a toothy grin as she draws an
+arrow from her body to fire at her enemies.
+
+Skills: stealth +3, acrobatics +4
+
+Actions:
+
+Salvo: ranged weapon attack, 60/120ft, hit: 3d4 physic damage.
