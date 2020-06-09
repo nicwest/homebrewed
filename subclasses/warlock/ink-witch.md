@@ -16,12 +16,12 @@ many shades as you have room for on your body. It takes 1 hour to find a
 specific shade and seal it into your flesh (see the list at the bottom of this
 subclass).
 
-As an action on your turn you may release a shade from the shadow plane, the
-ink in your skin dissolves and the shade materialises 5ft in front of you.
-While you have a shade active, your movement speed is reduced by half, and
-you must maintain your concentration on controlling it. The summoned creature
-will not move more 120 feet away from your body. If you lose concentration the
-shade and it's image return to your skin. 
+As an action on your turn you may release a tattooed shade from the shadow
+plane, the ink in your skin dissolves and the shade materialises 5ft in front
+of you. While you have a shade active, your movement speed is reduced by
+half, and you must maintain your concentration on controlling it. The summoned
+creature will not move more 120 feet away from your body. If you lose
+concentration the shade and it's image return to your skin. 
 
 The shade once summoned shares your initiative and uses your spell modifier
 for its AC, attacks, saving throws and ability checks. When first bound to
@@ -58,18 +58,18 @@ shade.
 Darkness Unleashed
 ------------------
 
-On reaching 14th you feel naked without at least one or two shades crawling in
-you skin and whispering in your mind. You are beginning to embrace the
-darkness, and the maximum number of shades you may have summoned at any one
-time is increased to 3.
+On reaching 14th level you feel naked without at least one or two shades
+crawling in you skin and whispering in your mind. You are beginning to embrace
+the darkness, and the maximum number of shades you may have summoned at any
+one time is increased to 3.
 
 Additionally as an action you may choose to temporarily relax your grip on the
-door. All remaining shades erupt from your flesh, appear within 5ft of you,
-and you immediately lose control of all summoned shades. The shades continue
-to share your initiative but take actions on their own behalf and towards
-their own ends. After 1 minute the shades dissipate and return directly to the
-shadow plane. You may not add more tattoos to your body until your finish a
-long rest.
+door. All remaining shade tattoos erupt from your flesh and appear within 5ft
+of you. You then immediately lose control of all summoned shades. The shades
+continue to share your initiative but take actions on their own behalf and
+towards their own ends, they remain friendly to you. After 1 minute the shades
+dissipate and return directly to the shadow plane. You may not add more
+tattoos to your body until your finish a long rest.
 
 Shades
 ------
